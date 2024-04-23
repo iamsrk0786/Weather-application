@@ -73,7 +73,7 @@ function Weather() {
     };
  
     return (
-        <div className="App">
+        <div className="App row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
             <h1 className="app-name">
               Weather Application
             </h1>
