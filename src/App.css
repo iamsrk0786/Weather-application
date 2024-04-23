@@ -57,8 +57,8 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 600px;
-  min-height: 440px;
+  width: 500px;
+  min-height: 400px;
   background-color: rgb(255, 255, 255);
   text-align: center;
   margin: 128px auto;
