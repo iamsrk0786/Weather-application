@@ -76,7 +76,7 @@ function Weather() {
       <h1 id="app-name" className="text-center mt-5 mb-3">
         Weather Application
       </h1>
-      <div id="search-bar" className="d-flex justify-content-center mb-3">
+      <div id="search-bar" className="d-flex justify-content-center mb-3 ">
         <input
           type="text"
           id="city-search"
